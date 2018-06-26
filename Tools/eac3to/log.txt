@@ -1,0 +1,29 @@
+eac3to v3.27
+command line: "C:\Users\diterliz\Google Drive\Apps\FFmpeg\Tools\\eac3to\eac3to"  "00019.MTS"+"00020.MTS"+"00021.MTS"+"00022.MTS"+"00023.MTS"+"00024.MTS"+"00025.MTS"+"00026.MTS"+"00027.MTS"+"00028.MTS"+"00029.MTS"+"00030.MTS"+"00031.MTS"+"00032.MTS"+"00033.MTS" ".\00.ac3" 
+------------------------------------------------------------------------------
+M2TS, 1 video track, 1 audio track, 1 subtitle track, 0:05:49, 105.844p
+1: h264/AVC, 720p50 (16:9)
+2: AC3, 2.0 channels, 192kbps, 48kHz
+3: Subtitle (PGS)
+Track 2 is used for destination file "00.ac3".
+[a02] Extracting audio track number 2...
+[a02] Creating file ".\00.ac3"...
+[a02] Audio overlaps for 32ms at playtime 0:00:08.  <WARNING>
+[a02] Audio overlaps for 8ms at playtime 0:00:29.  <WARNING>
+[a02] Audio overlaps for 16ms at playtime 0:00:40.  <WARNING>
+[a02] Audio overlaps for 32ms at playtime 0:01:09.  <WARNING>
+[a02] Audio overlaps for 32ms at playtime 0:01:49.  <WARNING>
+[a02] Audio overlaps for 8ms at playtime 0:02:05.  <WARNING>
+[a02] Audio overlaps for 8ms at playtime 0:02:35.  <WARNING>
+[a02] Audio overlaps for 24ms at playtime 0:03:34.  <WARNING>
+[a02] Audio overlaps for 24ms at playtime 0:03:41.  <WARNING>
+[a02] Audio overlaps for 32ms at playtime 0:04:06.  <WARNING>
+[a02] Audio overlaps for 24ms at playtime 0:04:09.  <WARNING>
+[a02] Audio overlaps for 16ms at playtime 0:04:22.  <WARNING>
+[a02] Audio overlaps for 32ms at playtime 0:04:45.  <WARNING>
+[a02] Starting 2nd pass...
+[a02] Realizing (E-)AC3 gaps...
+[a02] Creating file ".\00.ac3"...
+Video track 1 contains 8735 frames.
+eac3to processing took 4 seconds.
+Done.
